@@ -1,4 +1,5 @@
 theme: jekyll-theme-tactile
 title: Question Answering Mediated by Visual Clues and Knowledge Graphs
 show_downloads: false
-description: 
+description:
+html_show_sourcelink = False 
