@@ -21,6 +21,7 @@ This challenge aims at advancing the discussions on the state-of-the-art in thes
 
 
 ## 4. Dataset Description
+![alt text](./graph_sample.png)
 
 
 ## 5. Evaluation Criteria
