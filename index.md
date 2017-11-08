@@ -6,10 +6,11 @@ This challenge focuses on the use of Web data to support semantic Visual Questio
 ## 2. Motivation 
 As of 2017, it is estimated that images and videos account for up 73% of all all consumer Internet traffic according to Cisco Visual Networking Index [1]. However, due to its non-symbolic nature, most of the content present in visual form depends on the use of associated textual content or annotations to become accessible and searchable to end users. These associated textual information provide a limited slice to the full information content (such as entities and relations) expressed in the images. With recent advances in machine learning techniques [2,3], in particular, in the field of computer vision, the detection and classification of objects embedded in images became a very active research area [4,5,6]. More recently, the detection of relations between objects in an image scene [7,8,9,10], defined the use of lexico-semantic graphs as a lightweight representation device for images. The emergence of richer symbolic-level representation models opened the doors to more sophisticated semantic interpretation models and applications such as Visual Question Answering (VQA).
 
+
 However, addressing the problem of Question Answering over visual data requires semantic representation models. These models support semantic approximation and reasoning operations necessary to bridge the gap between queries and the immediate description of an image. Moreover, it requires the integration of the intermediate graph extracted from the image to large commonsense knowledge bases.
 
-This challenge aims at advancing the discussions on the state-of-the-art in these areas, and is creating a test collection which explores the semantic aspects of VQA.
 
+This challenge aims at advancing the discussions on the state-of-the-art in these areas, and is creating a test collection which explores the semantic aspects of VQA.
 
 ## 3. Challenge Timeline
 
