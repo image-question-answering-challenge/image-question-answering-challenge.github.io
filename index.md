@@ -94,6 +94,6 @@ Alessio Sarullo is a PhD student at the University of Manchester. He obtained hi
 14.  Lehmann, Jens, et al. DBPEDIA 2016-4 Statistics. 2016. http://wiki.dbpedia.org/dbpedia-2016-04-statistics
 
 <style>
-	#clearfix: { visibility: hidden;}
+	#downloads: { visibility: hidden;}
 </style>
 
