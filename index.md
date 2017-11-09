@@ -31,21 +31,29 @@ The test collection consists of 1000 natural language queries divided into train
 Participating VQA systems will be evaluated with regard to mean average precision, recall, F1-score, mean reciprocal rank and normalized discounted cumulative gain (NDCG). The challenge will provide Gerbil QA [12] as a supporting evaluation platform. Participating systems will be able to run their webservice against the evaluation platform to test their system against the provided training data and get the correct measures above back. This system ensures long term reproducibility and comparability of evaluation results. GERBIL QA layed the foundation for the H2020 project HOBBIT (https://project-hobbit.eu/) which aims at benchmarking Big Linked Data in a FAIR way. However, to not impose a technical hurdle on the participants, the submissions to the challenges can also happen as file submission in a later announced format.
 
 ## 6. Organizers
-------
-<img src="./fabricio.jpg" width="70" height="70"> 
+
+<img src="./fabricio.jpg" width="70" height="70">
+
 Fabricio Firmino is a PhD student at Federal University of Rio de Janeiro and partner at Technia, a startup with focus on machine learning. His main research areas include Machine Learning, Content Based Image Retrieval and Semantics Technologies. Fabricio holds BSc. ans MsC in Computer Science from Federal University of Rio de Janeiro. He also has experience such as software engineer and data scientist in companies such as Petrobras (Oil & Gas), Brazilian Navy (Military), Brazilian National Laboratory of Scientific Computing (Research in Bioinformatics), Digital Enterprise Research Institute (Research in Semantics) and Siemens(IT Security).
 ------
-<img src="./andre.png" width="70" height="70"> 
+
+<img src="./andre.png" width="70" height="70">
+
 André Freitas is a lecturer at the School of Computer Science at the University of Manchester. Prior to Manchester, he was an associate researcher and lecturer at the Natural Language Processing and Semantic Computing Group at the University of Passau (Germany) at the Chair of Digital Libraries and Web Information Systems. He is also a partner and co-founder at Amtera Semantic Technologies. Before joining Passau, he was part of the Digital Enterprise Research Institute (DERI) at the National University of Ireland, Galway where he did his PhD on Schema-agnostic Query Mechanisms for Large-Schema Databases. André holds a BSc. in Computer Science from the Federal University of Rio de Janeiro (UFRJ), Brazil (2005). His main research areas include Question Answering, Schema-agnostic Database Query Mechanisms, Natural Language Query Mechanisms over Large-Schema Databases, Distributional Semantics, Hybrid Symbolic-Distributional Models, Approximate Reasoning and Knowledge Graphs.
 ------
-<img src="./ricardo.png" width="70" height="70"> 
+
+<img src="./ricardo.png" width="70" height="70">
+
 Ricardo Usbeck is a PostDoc at the Paderborn University in Germany where he leads the Data Access team at the Data Science chair of Prof. Axel Ngonga. He obtained his PhD from the Leipzig University where he focused on a pipeline from raw unstructured data to a fully-fledged hybrid question answering system. Before  he obtained his B.Sc. and M.Sc. from the University of Halle-Wittenberg focusing on the clustering of tweets and outlier detection in social networks. He currently is interested in building domain-adaptable, hybrid QA systems which are able to overcome the single data source problem as well as FAIR benchmarking of such platforms.
 ------
-<img src="./Tingting.jpg" width="70" height="70"> 
+
+<img src="./Tingting.jpg" width="70" height="70">
+
 Tingting Mu is a lecturer at the School of Computer Science at the University of Manchester, UK. Prior to Manchester, she was a lecturer at the University of Liverpool, UK. Before that, she was a postdoctoral researcher in National Centre of Text Mining, UK. She received her B.Eng. degree from School of the Gifted Young, University of Science and Technology of China in 2004, and Ph.D. degree from Department of Electrical Engineering and Electronics, University of Liverpool in 2008. Her main research areas include machine learning and data analytics, with applications to language and vision understanding. Her research works are focused on developing advanced mathematical modelling and large-scale optimisation techniques to analyse real-world complex data. She is interested in developing algorithms to discover latent structure, learn knowledge representation, and extract information from large-scale, noisy, (un)structured data, e.g., text, image, video, signal, network data, supporting development of text mining and computer vision systems and other related research areas such as bioinformatics. 
 ------
+
 Alessio Sarullo is a PhD student at the University of Manchester. He obtained his B.Sc degree from the  University of Florence in 2013 and his M.Sc degree in 2016 with a thesis developed under the joint supervision of professors from both the University of Florence and the Technische Universität Dresden. His main research areas include Machine Learning, Computer Vision and Natural Language Processing. His PhD project aims at building a Visual Question Answering system which is able to integrate common knowledge from external sources and work on a semantically richer representation for both question and image, thus being able to provide better answers for question about entities not directly found in the image.
-------
+
 
 ## 7. Contacts
 * Fabrício Firmino: firminodefaria@ufrj.br
