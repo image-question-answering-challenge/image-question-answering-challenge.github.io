@@ -42,6 +42,11 @@ Participating VQA systems will be evaluated with regard to mean average precisio
 * André Freitas is a lecturer at the School of Computer Science at the University of Manchester. Prior to Manchester, he was an associate researcher and lecturer at the Natural Language Processing and Semantic Computing Group at the University of Passau (Germany) at the Chair of Digital Libraries and Web Information Systems. He is also a partner and co-founder at Amtera Semantic Technologies. Before joining Passau, he was part of the Digital Enterprise Research Institute (DERI) at the National University of Ireland, Galway where he did his PhD on Schema-agnostic Query Mechanisms for Large-Schema Databases. André holds a BSc. in Computer Science from the Federal University of Rio de Janeiro (UFRJ), Brazil (2005). His main research areas include Question Answering, Schema-agnostic Database Query Mechanisms, Natural Language Query Mechanisms over Large-Schema Databases, Distributional Semantics, Hybrid Symbolic-Distributional Models, Approximate Reasoning and Knowledge Graphs.
 ------
 
+<img src="./ricardo.png" width="70" height="70"> 
+
+* Ricardo Usbeck is a PostDoc at the Paderborn University in Germany where he leads the Data Access team at the Data Science chair of Prof. Axel Ngonga. He obtained his PhD from the Leipzig University where he focused on a pipeline from raw unstructured data to a fully-fledged hybrid question answering system. Before  he obtained his B.Sc. and M.Sc. from the University of Halle-Wittenberg focusing on the clustering of tweets and outlier detection in social networks. He currently is interested in building domain-adaptable, hybrid QA systems which are able to overcome the single data source problem as well as FAIR benchmarking of such platforms.
+------
+
 <img src="./Tingting.jpg" width="70" height="70"> 
 
 * Tingting Mu is a lecturer at the School of Computer Science at the University of Manchester, UK. Prior to Manchester, she was a lecturer at the University of Liverpool, UK. Before that, she was a postdoctoral researcher in National Centre of Text Mining, UK. She received her B.Eng. degree from School of the Gifted Young, University of Science and Technology of China in 2004, and Ph.D. degree from Department of Electrical Engineering and Electronics, University of Liverpool in 2008. Her main research areas include machine learning and data analytics, with applications to language and vision understanding. Her research works are focused on developing advanced mathematical modelling and large-scale optimisation techniques to analyse real-world complex data. She is interested in developing algorithms to discover latent structure, learn knowledge representation, and extract information from large-scale, noisy, (un)structured data, e.g., text, image, video, signal, network data, supporting development of text mining and computer vision systems and other related research areas such as bioinformatics. 
@@ -49,11 +54,6 @@ Participating VQA systems will be evaluated with regard to mean average precisio
 ------
 
 * Alessio Sarullo is a PhD student at the University of Manchester. He obtained his B.Sc degree from the  University of Florence in 2013 and his M.Sc degree in 2016 with a thesis developed under the joint supervision of professors from both the University of Florence and the Technische Universität Dresden. His main research areas include Machine Learning, Computer Vision and Natural Language Processing. His PhD project aims at building a Visual Question Answering system which is able to integrate common knowledge from external sources and work on a semantically richer representation for both question and image, thus being able to provide better answers for question about entities not directly found in the image.
-------
-
-<img src="./ricardo.png" width="70" height="70"> 
-
-* Ricardo Usbeck is a PostDoc at the Paderborn University in Germany where he leads the Data Access team at the Data Science chair of Prof. Axel Ngonga. He obtained his PhD from the Leipzig University where he focused on a pipeline from raw unstructured data to a fully-fledged hybrid question answering system. Before  he obtained his B.Sc. and M.Sc. from the University of Halle-Wittenberg focusing on the clustering of tweets and outlier detection in social networks. He currently is interested in building domain-adaptable, hybrid QA systems which are able to overcome the single data source problem as well as FAIR benchmarking of such platforms.
 
 
 ## 7. Contacts
