@@ -49,6 +49,7 @@ Participating VQA systems will be evaluated with regard to mean average precisio
 ------
 
 * Alessio Sarullo is a PhD student at the University of Manchester. He obtained his B.Sc degree from the  University of Florence in 2013 and his M.Sc degree in 2016 with a thesis developed under the joint supervision of professors from both the University of Florence and the Technische Universität Dresden. His main research areas include Machine Learning, Computer Vision and Natural Language Processing. His PhD project aims at building a Visual Question Answering system which is able to integrate common knowledge from external sources and work on a semantically richer representation for both question and image, thus being able to provide better answers for question about entities not directly found in the image.
+------
 
 <img src="./ricardo.png" width="70" height="70"> 
 
