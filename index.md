@@ -14,7 +14,7 @@ This challenge aims at advancing the discussions on the state-of-the-art in thes
 
 ## 3. Challenge Timeline
 
-	* Challenge papers submission deadline : 12 January 2018
+	* Challenge papers submission deadline : 4 February 2018
 	* Challenge papers acceptance notification : 14 February 2018
 	* Challenge test data published : 14 February 2018
 
