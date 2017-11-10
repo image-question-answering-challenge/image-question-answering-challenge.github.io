@@ -23,7 +23,7 @@ This challenge aims at advancing the discussions on the state-of-the-art in thes
 The test collection consists of 1000 natural language queries divided into training (600 queries) and test (400 queries) sets. All natural language queries will require the integration of one or more knowledge graphs from multiple modalities and will explore different types of representation and reasoning on the top of the scene description (See Section 5). Three data sources will be used: (i) Visual Genome scene graphs (1.7 million of object instances and 2.3 million of relationships) [11], (ii) ConceptNet 5.5 (around 28 million of statements and around 4 million of concepts) [13] and (ii) DBpedia 2016-04 (around 18 million of instances and around 80 million of statements) [14].
 
 ![alt text](./graph_sample.png)
-
+![alt text](./jar.png)
 
 ## 5. Evaluation Criteria
 
