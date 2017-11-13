@@ -1,8 +1,8 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109499596-1"></script>
 <script> 
-	element = document.getElementsByTagName("header");
-	element.parentNode.removeChild(element);
+	document.getElementsByTagName("header").remove();
+	
 	console.log("FUNCIONOU");
 
 </script>
