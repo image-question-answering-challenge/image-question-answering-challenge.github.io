@@ -1,6 +1,10 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109499596-1"></script>
-<script> console.log("TESTE FUNCIONANDO"); </script>
+<script> 
+	element = document.getElementsByTagName("header");
+	element.parentNode.removeChild(element);
+
+</script>
 
 <script>
   window.dataLayer = window.dataLayer || [];
