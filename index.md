@@ -2,6 +2,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109499596-1"></script>
 <script> 
 	document.getElementById("downloads").remove();
+	document.getElementsByTagName("h2")[0].remove()
 
 </script>
 
