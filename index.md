@@ -3,6 +3,7 @@
 <script> 
 	element = document.getElementsByTagName("header");
 	element.parentNode.removeChild(element);
+	console.log("FUNCIONOU");
 
 </script>
 
