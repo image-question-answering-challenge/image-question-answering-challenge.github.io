@@ -52,8 +52,7 @@ Alessio Sarullo is a PhD student at the University of Manchester. He obtained hi
 
 ## 7. Contacts
 	* Fabrício Firmino: firminodefaria@ufrj.br
-	* Andre Freitas: andre.freitas@manchester.uk
-
+	* Andre Freitas: andre.freitas@manchester.ac.uk
 
 ## 8. References
 1.   Cisco Visual networking Index. 2016. Forecast and methodology, 2016-2021, white paper. San Jose, CA, USA (2016).
