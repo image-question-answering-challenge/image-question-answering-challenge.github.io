@@ -2,7 +2,6 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109499596-1"></script>
 <script> 
 	document.getElementById("downloads").remove();
-	console.log("FUNCIONOU");
 
 </script>
 
