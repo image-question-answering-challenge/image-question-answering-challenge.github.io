@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109499596-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109499596-1');
+</script>
+
+
 # Question Answering Mediated by Visual Clues and Knowledge Graphs - WWW 2018 LYON, FRANCE (23 - 27 April 2018)
 
 ## 1. Overview
