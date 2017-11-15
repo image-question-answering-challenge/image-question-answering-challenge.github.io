@@ -15,26 +15,34 @@
 </script>
 
 ## 1. Overview
-This challenge focuses on the use of Web data to support semantic Visual Question Answering: given a large image collection, find a set of images matching natural language queries. The task will support advancing the state-of-the-art in Visual Question Answering by focusing on semantic representation and reasoning mechanisms. In order to address natural language queries, participating systems will need to integrate graph descriptors extracted from images to  use structured and unstructured Web data sources. 
+This challenge focuses on the use of semantic representation methods to support Visual Question Answering: given a large image collection, find a set of images matching natural language queries. The task will support advancing the state-of-the-art in Visual Question Answering by focusing on methods which explore the interplay between contemporary machine learning techniques, semantic representation and reasoning mechanisms.  
 
 ## 2. Motivation 
 As of 2017, it is estimated that images and videos account for up 73% of all all consumer Internet traffic according to Cisco Visual Networking Index [1]. However, due to its non-symbolic nature, most of the content present in visual form depends on the use of associated textual content or annotations to become accessible and searchable to end users. These associated textual information provide a limited slice to the full information content (such as entities and relations) expressed in the images. With recent advances in machine learning techniques [2,3], in particular, in the field of computer vision, the detection and classification of objects embedded in images became a very active research area [4,5,6]. More recently, the detection of relations between objects in an image scene [7,8,9,10], defined the use of lexico-semantic graphs as a lightweight representation device for images. The emergence of richer symbolic-level representation models opened the doors to more sophisticated semantic interpretation models and applications such as Visual Question Answering (VQA).
 
+However, addressing the problem of Question Answering over visual data requires principled semantic representation models. These models support semantic approximation and reasoning operations necessary to bridge the gap between queries and the immediate description of an image. In this process the integration of sub-symbolic methods derived from computer vision should be integrated to symbolic AI methods. 
 
-However, addressing the problem of Question Answering over visual data requires semantic representation models. These models support semantic approximation and reasoning operations necessary to bridge the gap between queries and the immediate description of an image. Moreover, it requires the integration of the intermediate graph extracted from the image to large commonsense knowledge bases.
+This challenge aims at advancing the dialogue between Computer Vision and Natural Language Processing, by creating a test collection which explores the semantic aspects of VQA.
 
+Topics of interest for the challenge include (but are not restricted to):
+	-	Visual Question Answering (QA) architectures and techniques.
+	-	Representation learning / Semantic representation models for Visual QA.
+	-	Machine learning methods for Visual QA.
+	-	Zero and one-shot learning methods.
+	-	Use of Web Data and Knowledge Graphs to support Visual QA.
+	-	Linguistic resources and datasets.
+	-	New evaluation paradigms.
 
-This challenge aims at advancing the discussions on the state-of-the-art in these areas, and is creating a test collection which explores the semantic aspects of VQA.
 
 ## 3. Challenge Timeline
 
-	* Challenge papers submission deadline : 4 February 2018
-	* Challenge papers acceptance notification : 14 February 2018
-	* Challenge test data published : 14 February 2018
-
+	* Publication of the training data: December 1st , 2017.
+	* Challenge papers submission deadline: February 4th, 2018.
+	* Challenge papers acceptance notification: February 14th,  2018.
+	* Challenge test data published and submission of results: February 14th, 2018.
 
 ## 4. Dataset Description
-The test collection consists of 1000 natural language queries divided into training (600 queries) and test (400 queries) sets. All natural language queries will require the integration of one or more knowledge graphs from multiple modalities and will explore different types of representation and reasoning on the top of the scene description (See Section 5). Three data sources will be used: (i) Visual Genome scene graphs (1.7 million of object instances and 2.3 million of relationships) [11], (ii) ConceptNet 5.5 (around 28 million of statements and around 4 million of concepts) [13] and (ii) DBpedia 2016-04 (around 18 million of instances and around 80 million of statements) [14].
+The test collection consists of natural language queries divided into training and test sets. All natural language queries will require the integration of one or more knowledge graphs from multiple modalities and will explore different types of representation and reasoning on the top of the scene description. The test collection is derived from the Visual Genome Dataset (1.7 million of object instances and 2.3 million of relationships) [11]. 
 
 ![alt text](./graph_sample.png)
 ![alt text](./jar.png)
@@ -45,24 +53,11 @@ Participating VQA systems will be evaluated with regard to mean average precisio
 
 ## 6. Organizers
 
-Fabricio Firmino is a PhD student at Federal University of Rio de Janeiro and partner at Technia, a startup with focus on machine learning. His main research areas include Machine Learning, Content Based Image Retrieval and Semantics Technologies. Fabricio holds BSc. ans MsC in Computer Science from Federal University of Rio de Janeiro. He also has experience such as software engineer and data scientist in companies such as Petrobras (Oil & Gas), Brazilian Navy (Military), Brazilian National Laboratory of Scientific Computing (Research in Bioinformatics), Digital Enterprise Research Institute (Research in Semantics) and Siemens(IT Security).
-
-------
-
-André Freitas is a lecturer at the School of Computer Science at the University of Manchester. Prior to Manchester, he was an associate researcher and lecturer at the Natural Language Processing and Semantic Computing Group at the University of Passau (Germany) at the Chair of Digital Libraries and Web Information Systems. He is also a partner and co-founder at Amtera Semantic Technologies. Before joining Passau, he was part of the Digital Enterprise Research Institute (DERI) at the National University of Ireland, Galway where he did his PhD on Schema-agnostic Query Mechanisms for Large-Schema Databases. André holds a BSc. in Computer Science from the Federal University of Rio de Janeiro (UFRJ), Brazil (2005). His main research areas include Question Answering, Schema-agnostic Database Query Mechanisms, Natural Language Query Mechanisms over Large-Schema Databases, Distributional Semantics, Hybrid Symbolic-Distributional Models, Approximate Reasoning and Knowledge Graphs.
-
-------
-
-Ricardo Usbeck is a PostDoc at the Paderborn University in Germany where he leads the Data Access team at the Data Science chair of Prof. Axel Ngonga. He obtained his PhD from the Leipzig University where he focused on a pipeline from raw unstructured data to a fully-fledged hybrid question answering system. Before  he obtained his B.Sc. and M.Sc. from the University of Halle-Wittenberg focusing on the clustering of tweets and outlier detection in social networks. He currently is interested in building domain-adaptable, hybrid QA systems which are able to overcome the single data source problem as well as FAIR benchmarking of such platforms.
-
-------
-
-Tingting Mu is a lecturer at the School of Computer Science at the University of Manchester, UK. Prior to Manchester, she was a lecturer at the University of Liverpool, UK. Before that, she was a postdoctoral researcher in National Centre of Text Mining, UK. She received her B.Eng. degree from School of the Gifted Young, University of Science and Technology of China in 2004, and Ph.D. degree from Department of Electrical Engineering and Electronics, University of Liverpool in 2008. Her main research areas include machine learning and data analytics, with applications to language and vision understanding. Her research works are focused on developing advanced mathematical modelling and large-scale optimisation techniques to analyse real-world complex data. She is interested in developing algorithms to discover latent structure, learn knowledge representation, and extract information from large-scale, noisy, (un)structured data, e.g., text, image, video, signal, network data, supporting development of text mining and computer vision systems and other related research areas such as bioinformatics. 
-
-------
-
-Alessio Sarullo is a PhD student at the University of Manchester. He obtained his B.Sc degree from the  University of Florence in 2013 and his M.Sc degree in 2016 with a thesis developed under the joint supervision of professors from both the University of Florence and the Technische Universität Dresden. His main research areas include Machine Learning, Computer Vision and Natural Language Processing. His PhD project aims at building a Visual Question Answering system which is able to integrate common knowledge from external sources and work on a semantically richer representation for both question and image, thus being able to provide better answers for question about entities not directly found in the image.
-
+	Fabricio Firmino, Federal University of Rio de Janeiro.
+	André Freitas, University of Manchester. 
+	Ricardo Usbeck, Paderborn University.
+	Tingting Mu, University of Manchester.
+	Alessio Sarullo, University of Manchester. 
 
 ## 7. Contacts
 	* Fabrício Firmino: firminodefaria@ufrj.br
@@ -96,5 +91,4 @@ Alessio Sarullo is a PhD student at the University of Manchester. He obtained hi
 13.  Speer, Robert, Joshua Chin,  and Catherine Havasi, 2017. ConceptNet 5.5: An Open Multilingual Graph of General Knowledge. AAAI. 2017.
 
 14.  Lehmann, Jens, et al. DBPEDIA 2016-4 Statistics. 2016. http://wiki.dbpedia.org/dbpedia-2016-04-statistics
-
 
