@@ -44,7 +44,7 @@ Topics of interest for the challenge include (but are not restricted to):
 ## 4. Dataset Description
 The test collection consists of natural language queries divided into training and test sets. All natural language queries will require the integration of one or more knowledge graphs from multiple modalities and will explore different types of representation and reasoning on the top of the scene description. The test collection is derived from the Visual Genome Dataset (1.7 million of object instances and 2.3 million of relationships) [11]. 
 
-[>>> CLICK HERE TO DOWNLOD TRAIN DATASET](./train-dataset.json)
+[>>> CLICK HERE TO DOWNLOD TRAIN DATASET](https://goo.gl/gZNdRj)
 
 
 ![alt text](./graph_sample.png)
