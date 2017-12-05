@@ -61,7 +61,7 @@ The train dataset is composed by 4475 queries in a JSON file. Each JSON object i
 ```
 The set of visual genome ids for query "A animal resting" are stored in visual_genome_items. You can download the data describing each image id from http://visualgenome.org/api/v0/api_home.html. We are using Version 1.2 of dataset completed
 
-[>>> CLICK HERE TO DOWNLOD TRAIN DATASET](https://goo.gl/gZNdRj)
+[ *CLICK HERE TO DOWNLOD TRAIN DATASET*](https://goo.gl/gZNdRj)
 
 
 ![alt text](./graph_sample.png)
