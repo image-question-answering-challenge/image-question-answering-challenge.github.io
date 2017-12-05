@@ -46,7 +46,18 @@ The test collection consists of natural language queries divided into training a
 
 The train dataset is composed by 4475 queries in a JSON file. Each JSON object is composed by a query and a list of visual genome ids. For example consider the JSON below:
 ```json
-{"query": "A animal resting.", "visual_genome_items": ["2388487", "2404815", "2398497", "2335520", "2370203", "2417203", "2388882"]}
+{  
+      "query":"A animal resting.",
+      "visual_genome_items":[  
+         "2388487",
+         "2404815",
+         "2398497",
+         "2335520",
+         "2370203",
+         "2417203",
+         "2388882"
+      ]
+   }
 ```
 The set of visual genome ids for query "A animal resting" are stored in visual_genome_items. You can download the data describing each id from http://visualgenome.org/api/v0/api_home.html. We are using Version 1.2 of dataset completed
 
