@@ -77,6 +77,7 @@ Participating VQA systems will be evaluated with regard to mean average precisio
 Participating systems should send their results as an attached JSON file via email to firminodefaria@ufrj.br The test data will be made available on February 12th , 2018. Submissions will be closed on February 14th midnight, Hawaii time. A confirmation email will be send to the participants.
 
 The submissions should adhere to the format below:
+```json
 {  
       "query_id": 1,
       "visual_genome_items":[  
@@ -89,6 +90,7 @@ The submissions should adhere to the format below:
          "2388882"
       ]
    }
+```
 
 ### 6.2 Papers Submissions
 Paper submissions are invited independently of having an associated participating system in the challenge. Submissions should be formated using the ACM Sigconf template (as for the main conference track). Long papers have a page limit of 6 pages while short papers have a 2 page limit.
