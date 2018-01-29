@@ -71,7 +71,31 @@ The set of visual genome ids for query "A animal resting" are stored in visual_g
 
 Participating VQA systems will be evaluated with regard to mean average precision, recall, F1-score, mean reciprocal rank and normalized discounted cumulative gain (NDCG). The challenge will provide Gerbil QA [12] as a supporting evaluation platform. Participating systems will be able to run their webservice against the evaluation platform to test their system against the provided training data and get the correct measures above back. This system ensures long term reproducibility and comparability of evaluation results. GERBIL QA layed the foundation for the H2020 project HOBBIT (https://project-hobbit.eu/) which aims at benchmarking Big Linked Data in a FAIR way. However, to not impose a technical hurdle on the participants, the submissions to the challenges can also happen as file submission in a later announced format.
 
-## 6. Organizers
+## 6. Submissions 
+
+### 6.1 Experimental Results
+Participating systems should send their results as an attached JSON file via email to firminodefaria@ufrj.br The test data will be made available on February 12th , 2018. Submissions will be closed on February 14th midnight, Hawaii time. A confirmation email will be send to the participants.
+
+The submissions should adhere to the format below:
+{  
+      "query_id": 1,
+      "visual_genome_items":[  
+         "2388487",
+         "2404815",
+         "2398497",
+         "2335520",
+         "2370203",
+         "2417203",
+         "2388882"
+      ]
+   }
+
+### 6.2 Papers Submissions
+Paper submissions are invited independently of having an associated participating system in the challenge. Submissions should be formated using the ACM Sigconf template (as for the main conference track). Long papers have a page limit of 6 pages while short papers have a 2 page limit.
+
+Submissions should be sent via EasyChair: https://easychair.org/cfp/ViQAChallengeWWW2018. CEUR open online proceedings will be published after the challenge. Submissions will be closed on February 14th midnight, Hawaii time.
+
+## 7. Organizers
 
 	Fabricio Firmino, Federal University of Rio de Janeiro.
 	André Freitas, University of Manchester. 
@@ -79,11 +103,11 @@ Participating VQA systems will be evaluated with regard to mean average precisio
 	Tingting Mu, University of Manchester.
 	Alessio Sarullo, University of Manchester. 
 
-## 7. Contacts
+## 8. Contacts
 	* Fabrício Firmino: firminodefaria@ufrj.br
 	* Andre Freitas: andre.freitas@manchester.ac.uk
 
-## 8. References
+## 9. References
 1.   Cisco Visual networking Index. 2016. Forecast and methodology, 2016-2021, white paper. San Jose, CA, USA (2016).
 
 2.   Ji Wan, Dayong Wang, Steven Chu Hong Hoi, Pengcheng Wu, Jianke Zhu, Yong-dong Zhang, and Jintao Li. 2014. Deep learning for content-based image retrieval: A comprehensive study. In Proceedings of the 22nd ACM international conference on Multimedia. ACM, 157–166.
