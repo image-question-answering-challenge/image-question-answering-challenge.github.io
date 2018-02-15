@@ -63,7 +63,6 @@ The set of visual genome ids for query "A animal resting" are stored in visual_g
 
 [ *CLICK HERE TO DOWNLOD TRAIN DATASET*](https://goo.gl/gZNdRj)
 
-
 ![alt text](./graph_sample.png)
 ![alt text](./jar.png)
 
@@ -75,6 +74,9 @@ Participating VQA systems will be evaluated with regard to mean average precisio
 
 ### 6.1 Experimental Results
 Participating systems should send their results as an attached JSON file via email to firminodefaria@ufrj.br The test data will be made available on ~~February 12th~~ February 15th, 2018. Submissions will be closed on ~~February 14th~~ February 19th midnight, Hawaii time. A confirmation email will be send to the participants.
+
+[ *CLICK HERE TO DOWNLOD EVALUATION DATASET*](https://goo.gl/93ccVW)
+
 
 The submissions should adhere to the format below:
 ```json
