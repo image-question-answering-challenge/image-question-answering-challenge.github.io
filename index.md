@@ -61,7 +61,7 @@ The train dataset is composed by 4475 queries in a JSON file. Each JSON object i
 ```
 The set of visual genome ids for query "A animal resting" are stored in visual_genome_items. You can download the data describing each image id from http://visualgenome.org/api/v0/api_home.html. We are using Version 1.2 of dataset completed
 
-[ *CLICK HERE TO DOWNLOD TRAIN DATASET*](https://goo.gl/gZNdRj)
+[ *CLICK HERE TO DOWNLOAD TRAIN DATASET*](https://goo.gl/gZNdRj)
 
 ![alt text](./graph_sample.png)
 ![alt text](./jar.png)
@@ -75,7 +75,7 @@ Participating VQA systems will be evaluated with regard to mean average precisio
 ### 6.1 Experimental Results
 Participating systems should send their results as an attached JSON file via email to firminodefaria@ufrj.br The test data will be made available on ~~February 12th~~ February 15th, 2018. Submissions will be closed on ~~February 14th~~ February 19th midnight, Hawaii time. A confirmation email will be send to the participants.
 
-[ *CLICK HERE TO DOWNLOD EVALUATION DATASET*](https://goo.gl/93ccVW)
+[ *CLICK HERE TO DOWNLOAD EVALUATION DATASET*](https://goo.gl/93ccVW)
 
 
 The submissions should adhere to the format below:
