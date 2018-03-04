@@ -12,7 +12,7 @@
   gtag('config', 'UA-109499596-1');
 </script>
 
-### In this experiment you will be shown a set of images and you will be asked to formulate a set of queries and commands following the guidelines:
+## In this experiment you will be shown a set of images and you will be asked to formulate a set of queries and commands following the guidelines:
 
     1. For each image, formulate as many queries as possible. (just click on the green button with a plus symbol to add another query)
     2. For each query associate images (if makes sense) in the right box. Just click with right button to select them
